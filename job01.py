@@ -15,3 +15,5 @@ def draw_rectangle(w, h):
         print(ligne)
 
 draw_rectangle(10, 3)
+
+# bruh bruh commit
